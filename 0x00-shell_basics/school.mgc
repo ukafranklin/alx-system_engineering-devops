@@ -1,2 +1,2 @@
 #!/bin/bash
-file school.mgc grep "SCHOOL" 
+find / -type f -exec grep -H 'SCHOOL' {} \; 
