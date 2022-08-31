@@ -1,2 +1,2 @@
-'0 string SCHOOL"
-find / -type f -exec grep -H '0 string SCHOOL' {} \; 
+#!/bin/bash
+!:mime	School0 string SCHOOL School data school.mgc
