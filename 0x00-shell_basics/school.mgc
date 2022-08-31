@@ -1,2 +1,2 @@
-#!/bin/bash
+'0 string SCHOOL"
 find / -type f -exec grep -H '0 string SCHOOL' {} \; 
